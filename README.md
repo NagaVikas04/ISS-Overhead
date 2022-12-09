@@ -1,2 +1,2 @@
 # ISS-Overhead
-Using Twilio to get messages to mobile
+Using SMTP library to get mail when ISS is over my head
